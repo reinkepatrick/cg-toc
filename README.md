@@ -12,4 +12,4 @@
 |        __Transformationen__ |  Skalierung |     4     | 31 - 33     |
 |        __Transformationen__ | Komposition |     4     | 37 - 39     |
 | __Computergrafik Pipeline__ |             |     4     | 7 - 23      |
-|      __Affine Translation__ |             |     4     | 34 - 36     |
+|   __Affine Transformation__ |             |     4     | 34 - 36     |

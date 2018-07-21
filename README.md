@@ -10,6 +10,6 @@
 |        __Transformationen__ | Translation |     4     | 25 - 26     |
 |        __Transformationen__ |    Rotation |     4     | 27 - 30     |
 |        __Transformationen__ |  Skalierung |     4     | 31 - 33     |
+|        __Transformationen__ | Komposition |     4     | 37 - 39     |
 | __Computergrafik Pipeline__ |             |     4     | 7 - 23      |
 |   __Affine Transformation__ |             |     4     | 34 - 36     |
-

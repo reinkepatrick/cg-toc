@@ -25,9 +25,8 @@
 |                             |          Flat Shading |     5     | 32 - 33                   |
 |                             | Gouraud/Phong shading |     5     | 34 - 41                   |
 |                             |            Raytracing |     5     | 54 - 59                   |
-|                __Polygone__ |            Einführung |     5     | 6 - 11                    |
-|                             |      Polygonale Netze |     5     | 12 - 18                   |
-|                             |             Edge list |     5     | 36 - 39                   |
-|                             |      Winged-edge List |     5     | 40 - 44                   |
-|                             |        Half-edge List |     5     | 45 - 50                   |
-|                             |                       |           |                           |
+|                __Polygone__ |            Einführung |     7     | 6 - 11                    |
+|                             |      Polygonale Netze |     7     | 12 - 18                   |
+|                             |             Edge list |     7     | 36 - 39                   |
+|                             |      Winged-edge List |     7     | 40 - 44                   |
+|                             |        Half-edge List |     7     | 45 - 50                   |
